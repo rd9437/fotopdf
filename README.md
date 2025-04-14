@@ -1,6 +1,8 @@
 # FotoPDF - Image to PDF Converter
 
-https://rd9437.github.io/fotopdf/
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://rd9437.github.io/fotopdf/)
+
+---
 
 Transform images into PDF files effortlessly with this user-friendly tool. This free online JPG to PDF converter allows combining multiple images into a single PDF document.
 
